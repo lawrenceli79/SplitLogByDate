@@ -34,7 +34,8 @@ with open(strInFile, errors='ignore') as fIn:
                 fOut = open(strOutFile, "w")
                 dtLast = dt
 
-        print("Processing Line " + str(i), end="\r")
+        if(i%1000==0):
+            print("Processing Line " + str(i), end="\r")
         fOut.write(line)
 
     fOut.close()
