@@ -13,11 +13,11 @@ if (len(sys.argv)<=1):
 
 strInFile = sys.argv[1]
 
-with open(strInFile) as fIn:
+with open(strInFile, errors='ignore') as fIn:
     dtLast = None
     strOutFile = strInFile + "_0"
     fOut = open(strOutFile, "w")
-    for line in fIn:
+    for i,line in enumerate(fIn):
         mo = re.match(r"^(\d\d\d\d)[-/](\d\d)[-/](\d\d)", line)
         if(mo!=None):
             y = int(mo.group(1))
@@ -32,6 +32,8 @@ with open(strInFile) as fIn:
                 fOut = open(strOutFile, "w")
                 dtLast = dt
 
+        print("Processing Line " + str(i), end="\r")
         fOut.write(line)
 
     fOut.close()
+    print("Finished Line " + str(i), end="\r")
