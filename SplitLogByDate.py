@@ -14,6 +14,8 @@ if (len(sys.argv)<=1):
 strInFile = sys.argv[1]
 
 with open(strInFile, errors='ignore') as fIn:
+    dtBegin = datetime.datetime.now()
+    print("Start=" + dtBegin.strftime("%Y-%m-%d %H:%M:%S"))
     dtLast = None
     strOutFile = strInFile + "_0"
     fOut = open(strOutFile, "w")
@@ -36,4 +38,10 @@ with open(strInFile, errors='ignore') as fIn:
         fOut.write(line)
 
     fOut.close()
-    print("Finished Line " + str(i), end="\r")
+    print("Finished Line " + str(i))
+    dtEnd = datetime.datetime.now()
+    time_delta = (dtEnd - dtBegin)
+    total_seconds = time_delta.total_seconds()
+    minutes = total_seconds/60
+    str = "End=%s, Elapse(min)=%s, Speed(lines/s)=%d" % (dtEnd.strftime("%Y-%m-%d %H:%M:%S"), "{:.2f}".format(minutes), i/total_seconds)
+    print(str)
