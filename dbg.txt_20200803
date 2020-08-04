@@ -1,4 +1,0 @@
-2020-08-03T17:54:34.087 [ProcId=11368] nbase	BlockRead 0
-StartDBman(DBLIB class) called 0   (00)
-DDE Window handle(StartDBman) 11603580   (b10e7c)
-2020-08-03T17:54:34.165 [ProcId=11368] nbase	IsMdeal_Finish 2
