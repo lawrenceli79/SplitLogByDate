@@ -1,0 +1,587 @@
+2020-08-04T17:54:34.165 [ProcId=11368] nbase	MdcontNum 21
+db:20200804 17:54:33(582596376)-->G_DBHNDL= 0   (00)
+db:20200804 17:54:34(582597187)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:34(582597187)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:34(582597203)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:34(582597203)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:34(582597530)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:34(582597530)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:34(582597546)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:34(582597546)-->G_DBHNDL_HOME= 65535   (ffff)
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 1578756   (181704)
+2020-08-04T17:54:37.098 [ProcId=11368] nbase	multidb dbhndl =  65535
+db:20200804 17:54:36(582599652)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:36(582599652)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:37(582600198)-->G_DBHNDL= 0   (00)
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 132908874   (7ec074a)
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 61475274   (3aa09ca)
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 7800330   (77060a)kusuri7.dbfとkusuri.dbfは2010年4月1日から2012年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。kusuri.dbfとkusuri8.dbfは2012年4月1日から2014年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。kusuri.dbfとkusuri9.dbfは2014年4月1日から2016年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。kusuri.dbfとkusuri10.dbfは2016年4月1日から2018年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。ku_mast7.dbfとku_maste.dbfは2010年4月1日から2012年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。ku_maste.dbfとku_mast8.dbfは2012年4月1日から2014年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。ku_maste.dbfとku_mast9.dbfは2014年4月1日から2016年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。ku_maste.dbfとku_mast10.dbfは2016年4月1日から2018年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。logic7.dbfとlogic.dbfは2010年4月1日から2012年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。logic.dbfとlogic8.dbfは2012年4月1日から2014年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。logic.dbfとlogic9.dbfは2014年4月1日から2016年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。logic.dbfとlogic10.dbfは2016年4月1日から2018年4月0日において有効期間が重複しています。
+この環境では点数計算が正しく行われません。サポートへ連絡してください。
+db:20200804 17:54:37(582600463)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:37(582600463)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:37(582600479)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:37(582600479)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:37(582600510)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:37(582600510)-->G_DBHNDL_HOME= 65535   (ffff)
+2020-08-04T17:54:38.367 [ProcId=11368] nbase	LoadKanjaDoccumentMV 1
+2020-08-04T17:54:38.368 [ProcId=11368] nbase	LoadKanjaDoccumentMV 2
+2020-08-04T17:54:38.375 [ProcId=11368] nbase	LoadKanjaDoccumentMV 3
+2020-08-04T17:54:38.375 [ProcId=11368] nbase	LoadKanjaDoccumentMV 5
+2020-08-04T17:54:38.375 [ProcId=11368] nbase	LoadKanjaDoccumentMV 6
+2020-08-04T17:54:38.375 [ProcId=11368] nbase	LoadKanjaDoccumentMV 7
+2020-08-04T17:54:38.376 [ProcId=11368] nbase	LoadKanjaDoccumentMV 8
+2020-08-04T17:54:38.376 [ProcId=11368] nbase	LoadKanjaDoccumentMV 9
+2020-08-04T17:54:38.376 [ProcId=11368] nbase	LoadKanjaDoccumentMV 10
+2020-08-04T17:54:38.376 [ProcId=11368] nbase	LoadKanjaDoccumentMV 11
+2020-08-04T17:54:39.001 [ProcId=11368] nbase	pidnum=0 dbhndl=65535 0
+2020-08-04T17:54:39.014 [ProcId=11368] nbase	cvisit= 109344
+2020-08-04T17:54:39.015 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=109344 0
+2020-08-04T17:54:39.015 [ProcId=11368] nbase	End reading comeh. pid=0,cv=109344,time=0 0
+2020-08-04T17:54:39.016 [ProcId=11368] nbase	Start reading deal. pid=0,cv=109344 0
+2020-08-04T17:54:39.016 [ProcId=11368] nbase	End reading deal. pid=0,cv=109344,time=0 0
+2020-08-04T17:54:39.028 [ProcId=11368] nbase	pidnum=5 dbhndl=65535 0
+2020-08-04T17:54:39.050 [ProcId=11368] nbase	cvisit= 20101
+2020-08-04T17:54:39.051 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=20101 0
+2020-08-04T17:54:39.057 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=20101,mdeal=SC,time=15 0
+2020-08-04T17:54:39.058 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.058 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.059 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.059 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=20101 0
+2020-08-04T17:54:39.065 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=20101,time=0 0
+2020-08-04T17:54:39.067 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=20101 0
+2020-08-04T17:54:39.073 [ProcId=11368] nbase	End reading comeh. pid=5,cv=20101,time=16 0
+2020-08-04T17:54:39.073 [ProcId=11368] nbase	Start reading deal. pid=5,cv=20101 0
+2020-08-04T17:54:39.074 [ProcId=11368] nbase	End reading deal. pid=5,cv=20101,time=0 0
+2020-08-04T17:54:39.075 [ProcId=11368] nbase	ID_B_SAIRAI 18
+2020-08-04T17:54:39.080 [ProcId=11368] nbase	cvisit= 109344
+2020-08-04T17:54:39.081 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=109344 0
+2020-08-04T17:54:39.088 [ProcId=11368] nbase	End reading comeh. pid=5,cv=109344,time=16 0
+2020-08-04T17:54:39.089 [ProcId=11368] nbase	Start reading deal. pid=5,cv=109344 0
+2020-08-04T17:54:39.090 [ProcId=11368] nbase	End reading deal. pid=5,cv=109344,time=0 0
+2020-08-04T17:54:39.108 [ProcId=11368] nbase	createbyomeictn 91
+2020-08-04T17:54:39.109 [ProcId=11368] nbase	cvisit= 91
+2020-08-04T17:54:39.109 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=91 0
+2020-08-04T17:54:39.111 [ProcId=11368] nbase	No SC Input pidnum=5,cvisit=91 2
+2020-08-04T17:54:39.111 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=91,mdeal=SB,time=0 0
+2020-08-04T17:54:39.112 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.112 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=91 0
+2020-08-04T17:54:39.118 [ProcId=11368] nbase	End reading comeh. pid=5,cv=91,time=16 0
+2020-08-04T17:54:39.119 [ProcId=11368] nbase	Start reading deal. pid=5,cv=91 0
+2020-08-04T17:54:39.120 [ProcId=11368] nbase	End reading deal. pid=5,cv=91,time=0 0
+2020-08-04T17:54:39.120 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.121 [ProcId=11368] nbase	createHokenctn 91
+2020-08-04T17:54:39.122 [ProcId=11368] nbase	cvisit= 101
+2020-08-04T17:54:39.122 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=101 0
+2020-08-04T17:54:39.124 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=101,mdeal=SC,time=0 0
+2020-08-04T17:54:39.124 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.125 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.125 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.126 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=101 0
+2020-08-04T17:54:39.135 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=101,time=15 0
+2020-08-04T17:54:39.137 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=101 0
+2020-08-04T17:54:39.145 [ProcId=11368] nbase	End reading comeh. pid=5,cv=101,time=0 0
+2020-08-04T17:54:39.146 [ProcId=11368] nbase	Start reading deal. pid=5,cv=101 0
+2020-08-04T17:54:39.147 [ProcId=11368] nbase	End reading deal. pid=5,cv=101,time=16 0
+2020-08-04T17:54:39.157 [ProcId=11368] nbase	cvisit= 100
+2020-08-04T17:54:39.158 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=100 0
+2020-08-04T17:54:39.158 [ProcId=11368] nbase	End reading comeh. pid=0,cv=100,time=0 0
+2020-08-04T17:54:39.158 [ProcId=11368] nbase	Start reading deal. pid=0,cv=100 0
+2020-08-04T17:54:39.158 [ProcId=11368] nbase	End reading deal. pid=0,cv=100,time=0 0
+2020-08-04T17:54:39.170 [ProcId=11368] nbase	cvisit= 102
+2020-08-04T17:54:39.170 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=102 0
+2020-08-04T17:54:39.172 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=102,mdeal=SC,time=0 0
+2020-08-04T17:54:39.172 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.172 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.173 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.174 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=102 0
+2020-08-04T17:54:39.175 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=102,time=0 0
+2020-08-04T17:54:39.176 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=102 0
+2020-08-04T17:54:39.183 [ProcId=11368] nbase	End reading comeh. pid=5,cv=102,time=15 0
+2020-08-04T17:54:39.183 [ProcId=11368] nbase	Start reading deal. pid=5,cv=102 0
+2020-08-04T17:54:39.184 [ProcId=11368] nbase	End reading deal. pid=5,cv=102,time=0 0
+2020-08-04T17:54:39.193 [ProcId=11368] nbase	cvisit= 103
+2020-08-04T17:54:39.194 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=103 0
+2020-08-04T17:54:39.195 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=103,mdeal=SC,time=0 0
+2020-08-04T17:54:39.196 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.196 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.197 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.197 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=103 0
+2020-08-04T17:54:39.213 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=103,time=15 0
+2020-08-04T17:54:39.215 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=103 0
+2020-08-04T17:54:39.221 [ProcId=11368] nbase	End reading comeh. pid=5,cv=103,time=0 0
+2020-08-04T17:54:39.221 [ProcId=11368] nbase	Start reading deal. pid=5,cv=103 0
+2020-08-04T17:54:39.222 [ProcId=11368] nbase	End reading deal. pid=5,cv=103,time=0 0
+2020-08-04T17:54:39.228 [ProcId=11368] nbase	cvisit= 104
+2020-08-04T17:54:39.229 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=104 0
+2020-08-04T17:54:39.231 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=104,mdeal=SC,time=0 0
+2020-08-04T17:54:39.231 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.231 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.232 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.233 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=104 0
+2020-08-04T17:54:39.233 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=104,time=0 0
+2020-08-04T17:54:39.234 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=104 0
+2020-08-04T17:54:39.241 [ProcId=11368] nbase	End reading comeh. pid=5,cv=104,time=16 0
+2020-08-04T17:54:39.241 [ProcId=11368] nbase	Start reading deal. pid=5,cv=104 0
+2020-08-04T17:54:39.242 [ProcId=11368] nbase	End reading deal. pid=5,cv=104,time=0 0
+2020-08-04T17:54:39.254 [ProcId=11368] nbase	cvisit= 105
+2020-08-04T17:54:39.254 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=105 0
+2020-08-04T17:54:39.256 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=105,mdeal=SC,time=15 0
+2020-08-04T17:54:39.257 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.257 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.258 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:39.258 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=5,cv=105 0
+2020-08-04T17:54:39.265 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=5,cv=105,time=0 0
+2020-08-04T17:54:39.267 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=105 0
+2020-08-04T17:54:39.278 [ProcId=11368] nbase	End reading comeh. pid=5,cv=105,time=16 0
+2020-08-04T17:54:39.278 [ProcId=11368] nbase	Start reading deal. pid=5,cv=105 0
+2020-08-04T17:54:39.279 [ProcId=11368] nbase	End reading deal. pid=5,cv=105,time=0 0
+2020-08-04T17:54:39.331 [ProcId=11368] nbase	createbyomeictn 91
+2020-08-04T17:54:39.332 [ProcId=11368] nbase	cvisit= 91
+2020-08-04T17:54:39.332 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=91 0
+2020-08-04T17:54:39.332 [ProcId=11368] nbase	End reading comeh. pid=0,cv=91,time=0 0
+2020-08-04T17:54:39.332 [ProcId=11368] nbase	Start reading deal. pid=0,cv=91 0
+2020-08-04T17:54:39.333 [ProcId=11368] nbase	End reading deal. pid=0,cv=91,time=0 0
+2020-08-04T17:54:39.333 [ProcId=11368] nbase	createHokenctn 91
+2020-08-04T17:54:39.482 [ProcId=11368] nbase	yc_ondo 0
+2020-08-04T17:54:39.482 [ProcId=11368] nbase	karte 0
+2020-08-04T17:54:39.482 [ProcId=11368] nbase	YC_YAKUZAIB 0
+2020-08-04T17:54:39.482 [ProcId=11368] nbase	YC_KENSAKEKKAB 0
+2020-08-04T17:54:39.483 [ProcId=11368] nbase	SUTANPU1 0
+2020-08-04T17:54:39.518 [ProcId=11368] nbase	pidnum=6 dbhndl=65535 0
+2020-08-04T17:54:39.530 [ProcId=11368] nbase	ID_B_SAIRAI 18
+2020-08-04T17:54:39.532 [ProcId=11368] nbase	cvisit= 109344
+2020-08-04T17:54:39.533 [ProcId=11368] nbase	Start reading comeh. pid=6,cv=109344 0
+2020-08-04T17:54:39.541 [ProcId=11368] nbase	End reading comeh. pid=6,cv=109344,time=16 0
+2020-08-04T17:54:39.541 [ProcId=11368] nbase	Start reading deal. pid=6,cv=109344 0
+2020-08-04T17:54:39.542 [ProcId=11368] nbase	End reading deal. pid=6,cv=109344,time=0 0
+2020-08-04T17:54:39.567 [ProcId=11368] nbase	createbyomeictn 91
+2020-08-04T17:54:39.567 [ProcId=11368] nbase	cvisit= 91
+2020-08-04T17:54:39.567 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=6,cv=91 0
+2020-08-04T17:54:39.571 [ProcId=11368] nbase	No SC Input pidnum=6,cvisit=91 2
+2020-08-04T17:54:39.571 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=6,cv=91,mdeal=SB,time=15 0
+2020-08-04T17:54:39.571 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.572 [ProcId=11368] nbase	Start reading comeh. pid=6,cv=91 0
+2020-08-04T17:54:39.579 [ProcId=11368] nbase	End reading comeh. pid=6,cv=91,time=0 0
+2020-08-04T17:54:39.579 [ProcId=11368] nbase	Start reading deal. pid=6,cv=91 0
+2020-08-04T17:54:39.580 [ProcId=11368] nbase	End reading deal. pid=6,cv=91,time=0 0
+2020-08-04T17:54:39.580 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.582 [ProcId=11368] nbase	createHokenctn 91
+2020-08-04T17:54:39.582 [ProcId=11368] nbase	cvisit= 10100
+2020-08-04T17:54:39.583 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=5,cv=10100 0
+2020-08-04T17:54:39.584 [ProcId=11368] nbase	No SC Input pidnum=5,cvisit=10100 2
+2020-08-04T17:54:39.585 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=5,cv=10100,mdeal=SB,time=16 0
+2020-08-04T17:54:39.585 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:39.585 [ProcId=11368] nbase	Start reading comeh. pid=5,cv=10100 0
+2020-08-04T17:54:39.592 [ProcId=11368] nbase	End reading comeh. pid=5,cv=10100,time=0 0
+2020-08-04T17:54:39.592 [ProcId=11368] nbase	Start reading deal. pid=5,cv=10100 0
+2020-08-04T17:54:39.593 [ProcId=11368] nbase	End reading deal. pid=5,cv=10100,time=0 0
+2020-08-04T17:54:39.593 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:39.662 [ProcId=11368] nbase	Start ConvertOneSBKSTemplateToSC. pid=0,cv=106,title=ｶﾙﾃ記入 0
+2020-08-04T17:54:39.662 [ProcId=11368] nbase	Start ConvertOneSBKSTemplateToSC. pid=0,cv=106,title=薬歴 0
+2020-08-04T17:54:39.662 [ProcId=11368] nbase	Start ConvertOneSBKSTemplateToSC. pid=0,cv=106,title=シェーマ 0
+2020-08-04T17:54:39.662 [ProcId=11368] nbase	Start ConvertOneSBKSTemplateToSC. pid=0,cv=106,title=検査歴 0
+2020-08-04T17:54:39.663 [ProcId=11368] nbase	Start ConvertOneSBKSTemplateToSC. pid=0,cv=106,title=温度板 0
+2020-08-04T17:54:39.663 [ProcId=11368] nbase	cvisit= 1001
+2020-08-04T17:54:39.663 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1001 0
+2020-08-04T17:54:39.663 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1001,time=0 0
+2020-08-04T17:54:39.664 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1001 0
+2020-08-04T17:54:39.664 [ProcId=11368] nbase	End reading deal. pid=0,cv=1001,time=0 0
+2020-08-04T17:54:39.676 [ProcId=11368] nbase	cvisit= 90
+2020-08-04T17:54:39.677 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=90 0
+2020-08-04T17:54:39.677 [ProcId=11368] nbase	End reading comeh. pid=0,cv=90,time=0 0
+2020-08-04T17:54:39.677 [ProcId=11368] nbase	Start reading deal. pid=0,cv=90 0
+2020-08-04T17:54:39.677 [ProcId=11368] nbase	End reading deal. pid=0,cv=90,time=0 0
+2020-08-04T17:54:39.683 [ProcId=11368] nbase	cvisit= 1002
+2020-08-04T17:54:39.683 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1002 0
+2020-08-04T17:54:39.683 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1002,time=0 0
+2020-08-04T17:54:39.684 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1002 0
+2020-08-04T17:54:39.684 [ProcId=11368] nbase	End reading deal. pid=0,cv=1002,time=0 0
+2020-08-04T17:54:39.696 [ProcId=11368] nbase	cvisit= 1003
+2020-08-04T17:54:39.697 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1003 0
+2020-08-04T17:54:39.697 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1003,time=0 0
+2020-08-04T17:54:39.697 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1003 0
+2020-08-04T17:54:39.697 [ProcId=11368] nbase	End reading deal. pid=0,cv=1003,time=0 0
+2020-08-04T17:54:39.709 [ProcId=11368] nbase	cvisit= 1004
+2020-08-04T17:54:39.710 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1004 0
+2020-08-04T17:54:39.710 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1004,time=0 0
+2020-08-04T17:54:39.710 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1004 0
+2020-08-04T17:54:39.710 [ProcId=11368] nbase	End reading deal. pid=0,cv=1004,time=0 0
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 72092842   (44c0caa)
+StartDBman(DBLIB class) called 0   (00)
+DDE Window handle(StartDBman) 1120540   (11191c)
+2020-08-04T17:54:39.910 [ProcId=11368] nbase	Start DrawOnceAndFit. 0
+2020-08-04T17:54:40.001 [ProcId=11368] nbase	End DrawOnceAndFit. time=93 0
+2020-08-04T17:54:40.011 [ProcId=11368] nbase	Start DrawOnceAndFit. 0
+2020-08-04T17:54:40.172 [ProcId=11368] nbase	End DrawOnceAndFit. time=156 0
+db:20200804 17:54:39(582602865)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:39(582602865)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:39(582602881)-->医療機関名(領収書用) モニターユーザー 0   (00)
+db:20200804 17:54:39(582602881)-->G_DBHNDL_HOME= 65535   (ffff)
+db:20200804 17:54:39(582602928)-->G_DBHNDL= 0   (00)
+2020-08-04T17:54:40.181 [ProcId=11368] nbase	cvisit= 101
+2020-08-04T17:54:40.182 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=101 0
+2020-08-04T17:54:40.182 [ProcId=11368] nbase	End reading comeh. pid=0,cv=101,time=0 0
+2020-08-04T17:54:40.182 [ProcId=11368] nbase	Start reading deal. pid=0,cv=101 0
+2020-08-04T17:54:40.183 [ProcId=11368] nbase	End reading deal. pid=0,cv=101,time=0 0
+2020-08-04T17:54:40.199 [ProcId=11368] nbase	Start DrawOnceAndFit. 0
+2020-08-04T17:54:40.393 [ProcId=11368] nbase	End DrawOnceAndFit. time=187 0
+2020-08-04T17:54:40.409 [ProcId=11368] nbase	Start DrawOnceAndFit. 0
+2020-08-04T17:54:40.579 [ProcId=11368] nbase	End DrawOnceAndFit. time=172 0
+2020-08-04T17:54:40.599 [ProcId=11368] nbase	Start DrawOnceAndFit. 0
+2020-08-04T17:54:40.742 [ProcId=11368] nbase	End DrawOnceAndFit. time=140 0
+2020-08-04T17:54:42.142 [ProcId=11368] nbase	ID_B_SAIRAI_NBCOM Start 0
+2020-08-04T17:54:42.142 [ProcId=11368] nbase	TagpoolAllocCount,pid=0,56 0
+2020-08-04T17:54:42.146 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0 0
+2020-08-04T17:54:42.148 [ProcId=11368] nbase	CountDummyKO nKOV=15, nKOD=0, nPart=0 0
+2020-08-04T17:54:42.149 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=90 0
+2020-08-04T17:54:42.150 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=90,time=0 0
+2020-08-04T17:54:42.150 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=100 0
+2020-08-04T17:54:42.151 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=100,time=0 0
+2020-08-04T17:54:42.151 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=109344 0
+2020-08-04T17:54:42.152 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=109344,time=0 0
+2020-08-04T17:54:42.152 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=91 0
+2020-08-04T17:54:42.153 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=91,time=0 0
+2020-08-04T17:54:42.153 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=101 0
+2020-08-04T17:54:42.155 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=101,time=0 0
+2020-08-04T17:54:42.155 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1004 0
+2020-08-04T17:54:42.156 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1004,time=0 0
+2020-08-04T17:54:42.156 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1003 0
+2020-08-04T17:54:42.156 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1003,time=0 0
+2020-08-04T17:54:42.157 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1002 0
+2020-08-04T17:54:42.157 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1002,time=0 0
+2020-08-04T17:54:42.158 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1001 0
+2020-08-04T17:54:42.168 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1001,time=0 0
+2020-08-04T17:54:42.170 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,time=16 0
+2020-08-04T17:54:42.171 [ProcId=11368] nbase	~pidnum= 0
+2020-08-04T17:54:42.171 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4 0
+2020-08-04T17:54:42.171 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4,cv=90 0
+2020-08-04T17:54:42.172 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,cv=90,time=0 0
+2020-08-04T17:54:42.172 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,time=0 0
+2020-08-04T17:54:42.173 [ProcId=11368] nbase	pidnum=1006 dbhndl=65535 0
+2020-08-04T17:54:42.192 [ProcId=11368] nbase	ID_B_SAIRAI 18
+2020-08-04T17:54:42.193 [ProcId=11368] nbase	cvisit= 109344
+2020-08-04T17:54:42.203 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=109344 0
+2020-08-04T17:54:42.212 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=109344,time=16 0
+2020-08-04T17:54:42.213 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=109344 0
+2020-08-04T17:54:42.214 [ProcId=11368] nbase	End reading deal. pid=1006,cv=109344,time=0 0
+2020-08-04T17:54:42.268 [ProcId=11368] nbase	cvisit= 100
+2020-08-04T17:54:42.269 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=100 0
+2020-08-04T17:54:42.275 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=100,mdeal=SC,time=0 0
+2020-08-04T17:54:42.275 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.275 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.277 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:42.277 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=1006,cv=100 0
+2020-08-04T17:54:42.278 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=1006,cv=100,time=0 0
+2020-08-04T17:54:42.279 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=100 0
+2020-08-04T17:54:42.285 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=100,time=16 0
+2020-08-04T17:54:42.286 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=100 0
+2020-08-04T17:54:42.287 [ProcId=11368] nbase	End reading deal. pid=1006,cv=100,time=0 0
+2020-08-04T17:54:42.293 [ProcId=11368] nbase	cvisit= 97
+2020-08-04T17:54:42.293 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=97 0
+2020-08-04T17:54:42.299 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=97,mdeal=SC,time=15 0
+2020-08-04T17:54:42.300 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.300 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.305 [ProcId=11368] nbase	LoadKOFromMdeal 23
+2020-08-04T17:54:42.306 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=1006,cv=97 0
+2020-08-04T17:54:42.310 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=1006,cv=97,time=0 0
+2020-08-04T17:54:42.312 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=97 0
+2020-08-04T17:54:42.318 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=97,time=16 0
+2020-08-04T17:54:42.318 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=97 0
+2020-08-04T17:54:42.319 [ProcId=11368] nbase	End reading deal. pid=1006,cv=97,time=0 0
+2020-08-04T17:54:42.324 [ProcId=11368] nbase	ID_B_SAIRAI-X 101
+2020-08-04T17:54:42.326 [ProcId=11368] nbase	Start making sc KOD/KOV. rt=0,pid=1006,cv=1001 0
+2020-08-04T17:54:42.327 [ProcId=11368] nbase	End making sc KOD/KOV. rt=0,pid=1006,cv=1001,time=0 0
+2020-08-04T17:54:42.328 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=1001 0
+2020-08-04T17:54:42.334 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=1001,time=15 0
+2020-08-04T17:54:42.334 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=1001 0
+2020-08-04T17:54:42.335 [ProcId=11368] nbase	End reading deal. pid=1006,cv=1001,time=0 0
+2020-08-04T17:54:42.336 [ProcId=11368] nbase	ID_B_SAIRAI-X 102
+2020-08-04T17:54:42.337 [ProcId=11368] nbase	ID_B_SAIRAI-X 103
+2020-08-04T17:54:42.339 [ProcId=11368] nbase	ID_B_SAIRAI-X 104
+2020-08-04T17:54:42.340 [ProcId=11368] nbase	ID_B_SAIRAI-X 1
+2020-08-04T17:54:42.344 [ProcId=11368] nbase	nloadkeika 1
+2020-08-04T17:54:42.345 [ProcId=11368] nbase	DeleteDupulicatedKeika2 1
+2020-08-04T17:54:42.345 [ProcId=11368] nbase	DeleteDupulicatedKeika2 2
+2020-08-04T17:54:42.347 [ProcId=11368] nbase	DeleteDupulicatedKeika2 3
+2020-08-04T17:54:42.348 [ProcId=11368] nbase	DeleteDupulicatedKeika2 4
+2020-08-04T17:54:42.348 [ProcId=11368] nbase	DeleteDupulicatedKeika2 5
+2020-08-04T17:54:42.348 [ProcId=11368] nbase	DeleteDupulicatedKeika2 6
+2020-08-04T17:54:42.348 [ProcId=11368] nbase	DeleteDupulicatedKeika2 7
+2020-08-04T17:54:42.349 [ProcId=11368] nbase	nloadkeika 2
+2020-08-04T17:54:42.354 [ProcId=11368] nbase	nloadkeika 3
+2020-08-04T17:54:42.354 [ProcId=11368] nbase	nloadkeika 4
+2020-08-04T17:54:42.354 [ProcId=11368] nbase	ID_B_SAIRAI-X 2
+2020-08-04T17:54:42.355 [ProcId=11368] nbase	ID_B_SAIRAI-X 3
+2020-08-04T17:54:42.357 [ProcId=11368] nbase	ID_B_SAIRAI-X 4
+2020-08-04T17:54:42.378 [ProcId=11368] nbase	ID_B_SAIRAI-X 5
+2020-08-04T17:54:42.378 [ProcId=11368] nbase	ID_B_SAIRAI-X 6
+2020-08-04T17:54:42.378 [ProcId=11368] nbase	ID_B_SAIRAI-X 7
+2020-08-04T17:54:42.379 [ProcId=11368] nbase	ID_B_SAIRAI-X 8
+2020-08-04T17:54:42.381 [ProcId=11368] nbase	ID_B_SAIRAI-X 9
+2020-08-04T17:54:42.381 [ProcId=11368] nbase	LoadKanjaDoccumentMV 1
+2020-08-04T17:54:42.383 [ProcId=11368] nbase	LoadKanjaDoccumentMV 2
+2020-08-04T17:54:42.390 [ProcId=11368] nbase	LoadKanjaDoccumentMV 3
+2020-08-04T17:54:42.392 [ProcId=11368] nbase	LoadKanjaDoccumentMV 4
+2020-08-04T17:54:42.392 [ProcId=11368] nbase	LoadKanjaDoccumentMV 5
+2020-08-04T17:54:42.392 [ProcId=11368] nbase	LoadKanjaDoccumentMV 6
+2020-08-04T17:54:42.392 [ProcId=11368] nbase	LoadKanjaDoccumentMV 7
+2020-08-04T17:54:42.392 [ProcId=11368] nbase	LoadKanjaDoccumentMV 8
+2020-08-04T17:54:42.393 [ProcId=11368] nbase	LoadKanjaDoccumentMV 9
+2020-08-04T17:54:42.393 [ProcId=11368] nbase	LoadKanjaDoccumentMV 10
+2020-08-04T17:54:42.410 [ProcId=11368] nbase	LoadKanjaDoccumentMV 11
+2020-08-04T17:54:42.423 [ProcId=11368] nbase	cvisit= 90
+2020-08-04T17:54:42.423 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=90 0
+2020-08-04T17:54:42.426 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=90 2
+2020-08-04T17:54:42.426 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=90,mdeal=SB,time=0 0
+2020-08-04T17:54:42.426 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.426 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=90 0
+2020-08-04T17:54:42.433 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=90,time=0 0
+2020-08-04T17:54:42.433 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=90 0
+2020-08-04T17:54:42.434 [ProcId=11368] nbase	End reading deal. pid=1006,cv=90,time=0 0
+2020-08-04T17:54:42.435 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.444 [ProcId=11368] nbase	ID_B_SAIRAI-X 10
+2020-08-04T17:54:42.529 [ProcId=11368] nbase	createbyomeictn 91
+2020-08-04T17:54:42.530 [ProcId=11368] nbase	cvisit= 91
+2020-08-04T17:54:42.530 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=91 0
+2020-08-04T17:54:42.532 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=91 2
+2020-08-04T17:54:42.532 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=91,mdeal=SB,time=15 0
+2020-08-04T17:54:42.533 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.533 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=91 0
+2020-08-04T17:54:42.541 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=91,time=0 0
+2020-08-04T17:54:42.541 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=91 0
+2020-08-04T17:54:42.543 [ProcId=11368] nbase	End reading deal. pid=1006,cv=91,time=0 0
+2020-08-04T17:54:42.543 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.545 [ProcId=11368] nbase	createHokenctn 91
+2020-08-04T17:54:42.545 [ProcId=11368] nbase	cvisit= 1002
+2020-08-04T17:54:42.545 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=1002 0
+2020-08-04T17:54:42.547 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=1002 2
+2020-08-04T17:54:42.548 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=1002,mdeal=SB,time=16 0
+2020-08-04T17:54:42.548 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.548 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=1002 0
+2020-08-04T17:54:42.556 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=1002,time=0 0
+2020-08-04T17:54:42.557 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=1002 0
+2020-08-04T17:54:42.558 [ProcId=11368] nbase	End reading deal. pid=1006,cv=1002,time=0 0
+2020-08-04T17:54:42.558 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.568 [ProcId=11368] nbase	cvisit= 1003
+2020-08-04T17:54:42.568 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=1003 0
+2020-08-04T17:54:42.570 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=1003 2
+2020-08-04T17:54:42.571 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=1003,mdeal=SB,time=0 0
+2020-08-04T17:54:42.571 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.571 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=1003 0
+2020-08-04T17:54:42.578 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=1003,time=0 0
+2020-08-04T17:54:42.578 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=1003 0
+2020-08-04T17:54:42.579 [ProcId=11368] nbase	End reading deal. pid=1006,cv=1003,time=16 0
+2020-08-04T17:54:42.579 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.590 [ProcId=11368] nbase	cvisit= 1004
+2020-08-04T17:54:42.590 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=1004 0
+2020-08-04T17:54:42.592 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=1004 2
+2020-08-04T17:54:42.592 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=1004,mdeal=SB,time=0 0
+2020-08-04T17:54:42.592 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:42.593 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=1004 0
+2020-08-04T17:54:42.599 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=1004,time=16 0
+2020-08-04T17:54:42.599 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=1004 0
+2020-08-04T17:54:42.600 [ProcId=11368] nbase	End reading deal. pid=1006,cv=1004,time=0 0
+2020-08-04T17:54:42.601 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:42.631 [ProcId=11368] nbase	ID_B_SAIRAI_NBCOM End 0
+2020-08-04T17:54:45.272 [ProcId=11368] nbase	cvisit= 109320
+2020-08-04T17:54:45.273 [ProcId=11368] nbase	Start reading mdeal. rt=0,pid=1006,cv=109320 0
+2020-08-04T17:54:45.275 [ProcId=11368] nbase	No SC Input pidnum=1006,cvisit=109320 2
+2020-08-04T17:54:45.276 [ProcId=11368] nbase	End reading mdeal. rt=0,pid=1006,cv=109320,mdeal=SB,time=0 0
+2020-08-04T17:54:45.276 [ProcId=11368] nbase	LoadKOFromMdeal 21
+2020-08-04T17:54:45.276 [ProcId=11368] nbase	Start reading comeh. pid=1006,cv=109320 0
+2020-08-04T17:54:45.290 [ProcId=11368] nbase	End reading comeh. pid=1006,cv=109320,time=16 0
+2020-08-04T17:54:45.291 [ProcId=11368] nbase	Start reading deal. pid=1006,cv=109320 0
+2020-08-04T17:54:45.306 [ProcId=11368] nbase	End reading deal. pid=1006,cv=109320,time=15 0
+2020-08-04T17:54:45.307 [ProcId=11368] nbase	LoadKOFromMdeal 22
+2020-08-04T17:54:45.307 [ProcId=11368] nbase	Start making sb karteobj and do sb=>sc conversion. rt=0,pid=1006,cv=109320 0
+2020-08-04T17:54:45.317 [ProcId=11368] nbase	End making sb karteobj and do sb=>sc conversion. rt=0,pid=1006,cv=109320,time=16 0
+2020-08-04T17:54:46.536 [ProcId=11368] c:state 0
+2020-08-04T17:54:46.538 [ProcId=11368] c:state 0
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+OLEMAS:1000 kusuri.dbfおよびku_maste.dbfに指定されたid3,ncodeのレコードがありません。id3=200 ncode=0
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+OLEMAS:1000 kusuri.dbfおよびku_maste.dbfに指定されたid3,ncodeのレコードがありません。id3=200 ncode=0
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+version:ku_maste.dbf
+start 77576 end 356344
+id3=200,ncode=0,seq=0,NotFoundFlag=1
+
+OLEMAS:1000 kusuri.dbfおよびku_maste.dbfに指定されたid3,ncodeのレコードがありません。id3=200 ncode=0
+2020-08-04T17:55:56.660 [ProcId=11368] c:state 0
+2020-08-04T17:55:58.360 [ProcId=11368] c:state 0
+2020-08-04T17:55:58.362 [ProcId=11368] c:state 0
+2020-08-04T17:55:58.812 [ProcId=11368] c:state 0
+2020-08-04T17:55:58.881 [ProcId=11368] c:state 0
+2020-08-04T17:59:01.569 [ProcId=11368] nbase	
+ID_B_SHUSEI_SPECIAL3 0, 582864616, 20200804T175901
+ID_B_SHUSEI_SPECIAL3 1, 582864688, 20200804T175901
+ 0
+2020-08-04T17:59:01.569 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006 0
+2020-08-04T17:59:01.570 [ProcId=11368] nbase	CountDummyKO nKOV=16, nKOD=0, nPart=0 0
+2020-08-04T17:59:01.571 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=90 0
+2020-08-04T17:59:01.571 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=90,time=0 0
+2020-08-04T17:59:01.571 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=100 0
+2020-08-04T17:59:01.572 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=100,time=15 0
+2020-08-04T17:59:01.572 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=109344 0
+2020-08-04T17:59:01.573 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=109344,time=0 0
+2020-08-04T17:59:01.573 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=91 0
+2020-08-04T17:59:01.573 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=91,time=0 0
+2020-08-04T17:59:01.573 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=1004 0
+2020-08-04T17:59:01.574 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=1004,time=0 0
+2020-08-04T17:59:01.574 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=1003 0
+2020-08-04T17:59:01.575 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=1003,time=0 0
+2020-08-04T17:59:01.575 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=1002 0
+2020-08-04T17:59:01.575 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=1002,time=0 0
+2020-08-04T17:59:01.575 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=1001 0
+2020-08-04T17:59:01.576 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=1001,time=0 0
+2020-08-04T17:59:01.576 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=109320 0
+2020-08-04T17:59:01.577 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=109320,time=0 0
+2020-08-04T17:59:01.577 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=1006,cv=97 0
+2020-08-04T17:59:01.578 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,cv=97,time=0 0
+2020-08-04T17:59:01.579 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=1006,time=15 0
+2020-08-04T17:59:01.580 [ProcId=11368] nbase	~pidnum= 1006
+2020-08-04T17:59:01.580 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4 0
+2020-08-04T17:59:01.580 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4,cv=90 0
+2020-08-04T17:59:01.580 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,cv=90,time=0 0
+2020-08-04T17:59:01.581 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,time=0 0
+2020-08-04T17:59:01.581 [ProcId=11368] nbase	pidnum=0 dbhndl=65535 0
+2020-08-04T17:59:01.588 [ProcId=11368] nbase	cvisit= 109344
+2020-08-04T17:59:01.589 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=109344 0
+2020-08-04T17:59:01.589 [ProcId=11368] nbase	End reading comeh. pid=0,cv=109344,time=0 0
+2020-08-04T17:59:01.589 [ProcId=11368] nbase	Start reading deal. pid=0,cv=109344 0
+2020-08-04T17:59:01.590 [ProcId=11368] nbase	End reading deal. pid=0,cv=109344,time=0 0
+2020-08-04T17:59:01.601 [ProcId=11368] nbase	cvisit= 100
+2020-08-04T17:59:01.601 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=100 0
+2020-08-04T17:59:01.602 [ProcId=11368] nbase	End reading comeh. pid=0,cv=100,time=0 0
+2020-08-04T17:59:01.602 [ProcId=11368] nbase	Start reading deal. pid=0,cv=100 0
+2020-08-04T17:59:01.602 [ProcId=11368] nbase	End reading deal. pid=0,cv=100,time=0 0
+2020-08-04T17:59:01.683 [ProcId=11368] nbase	createbyomeictn 91
+2020-08-04T17:59:01.684 [ProcId=11368] nbase	cvisit= 91
+2020-08-04T17:59:01.684 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=91 0
+2020-08-04T17:59:01.684 [ProcId=11368] nbase	End reading comeh. pid=0,cv=91,time=0 0
+2020-08-04T17:59:01.685 [ProcId=11368] nbase	Start reading deal. pid=0,cv=91 0
+2020-08-04T17:59:01.685 [ProcId=11368] nbase	End reading deal. pid=0,cv=91,time=0 0
+2020-08-04T17:59:01.685 [ProcId=11368] nbase	createHokenctn 91
+2020-08-04T17:59:01.686 [ProcId=11368] nbase	cvisit= 1001
+2020-08-04T17:59:01.686 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1001 0
+2020-08-04T17:59:01.686 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1001,time=0 0
+2020-08-04T17:59:01.686 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1001 0
+2020-08-04T17:59:01.687 [ProcId=11368] nbase	End reading deal. pid=0,cv=1001,time=0 0
+2020-08-04T17:59:01.704 [ProcId=11368] nbase	cvisit= 90
+2020-08-04T17:59:01.705 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=90 0
+2020-08-04T17:59:01.705 [ProcId=11368] nbase	End reading comeh. pid=0,cv=90,time=0 0
+2020-08-04T17:59:01.705 [ProcId=11368] nbase	Start reading deal. pid=0,cv=90 0
+2020-08-04T17:59:01.706 [ProcId=11368] nbase	End reading deal. pid=0,cv=90,time=0 0
+2020-08-04T17:59:01.711 [ProcId=11368] nbase	cvisit= 1002
+2020-08-04T17:59:01.712 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1002 0
+2020-08-04T17:59:01.712 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1002,time=0 0
+2020-08-04T17:59:01.712 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1002 0
+2020-08-04T17:59:01.712 [ProcId=11368] nbase	End reading deal. pid=0,cv=1002,time=0 0
+2020-08-04T17:59:01.730 [ProcId=11368] nbase	cvisit= 1003
+2020-08-04T17:59:01.730 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1003 0
+2020-08-04T17:59:01.730 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1003,time=0 0
+2020-08-04T17:59:01.731 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1003 0
+2020-08-04T17:59:01.731 [ProcId=11368] nbase	End reading deal. pid=0,cv=1003,time=0 0
+2020-08-04T17:59:01.748 [ProcId=11368] nbase	cvisit= 1004
+2020-08-04T17:59:01.749 [ProcId=11368] nbase	Start reading comeh. pid=0,cv=1004 0
+2020-08-04T17:59:01.749 [ProcId=11368] nbase	End reading comeh. pid=0,cv=1004,time=0 0
+2020-08-04T17:59:01.749 [ProcId=11368] nbase	Start reading deal. pid=0,cv=1004 0
+2020-08-04T17:59:01.749 [ProcId=11368] nbase	End reading deal. pid=0,cv=1004,time=0 0
+2020-08-04T17:59:02.672 [ProcId=11368] nbase	Start SC Termination 0
+2020-08-04T17:59:02.745 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0 0
+2020-08-04T17:59:02.746 [ProcId=11368] nbase	CountDummyKO nKOV=16, nKOD=0, nPart=0 0
+2020-08-04T17:59:02.747 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=90 0
+2020-08-04T17:59:02.747 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=90,time=0 0
+2020-08-04T17:59:02.747 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=100 0
+2020-08-04T17:59:02.747 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=100,time=0 0
+2020-08-04T17:59:02.748 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=109344 0
+2020-08-04T17:59:02.748 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=109344,time=0 0
+2020-08-04T17:59:02.748 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=91 0
+2020-08-04T17:59:02.749 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=91,time=0 0
+2020-08-04T17:59:02.749 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1004 0
+2020-08-04T17:59:02.749 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1004,time=0 0
+2020-08-04T17:59:02.750 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1003 0
+2020-08-04T17:59:02.750 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1003,time=0 0
+2020-08-04T17:59:02.750 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1002 0
+2020-08-04T17:59:02.751 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1002,time=0 0
+2020-08-04T17:59:02.751 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=0,cv=1001 0
+2020-08-04T17:59:02.751 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,cv=1001,time=0 0
+2020-08-04T17:59:02.752 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=0,time=0 0
+2020-08-04T17:59:02.753 [ProcId=11368] nbase	~pidnum= 0
+2020-08-04T17:59:02.753 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4 0
+2020-08-04T17:59:02.753 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=4,cv=90 0
+2020-08-04T17:59:02.754 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,cv=90,time=0 0
+2020-08-04T17:59:02.754 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=4,time=0 0
+2020-08-04T17:59:02.754 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5 0
+2020-08-04T17:59:02.754 [ProcId=11368] nbase	CountDummyKO nKOV=16, nKOD=0, nPart=0 0
+2020-08-04T17:59:02.755 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=109344 0
+2020-08-04T17:59:02.756 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=109344,time=0 0
+2020-08-04T17:59:02.756 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=10100 0
+2020-08-04T17:59:02.756 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=10100,time=0 0
+2020-08-04T17:59:02.756 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=91 0
+2020-08-04T17:59:02.757 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=91,time=0 0
+2020-08-04T17:59:02.757 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=105 0
+2020-08-04T17:59:02.758 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=105,time=16 0
+2020-08-04T17:59:02.758 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=104 0
+2020-08-04T17:59:02.758 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=104,time=0 0
+2020-08-04T17:59:02.759 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=103 0
+2020-08-04T17:59:02.760 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=103,time=0 0
+2020-08-04T17:59:02.760 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=102 0
+2020-08-04T17:59:02.760 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=102,time=0 0
+2020-08-04T17:59:02.761 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=101 0
+2020-08-04T17:59:02.761 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=101,time=0 0
+2020-08-04T17:59:02.761 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=5,cv=20101 0
+2020-08-04T17:59:02.763 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,cv=20101,time=0 0
+2020-08-04T17:59:02.768 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=5,time=16 0
+2020-08-04T17:59:02.768 [ProcId=11368] nbase	~pidnum= 5
+2020-08-04T17:59:02.769 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=6 0
+2020-08-04T17:59:02.769 [ProcId=11368] nbase	CountDummyKO nKOV=16, nKOD=0, nPart=0 0
+2020-08-04T17:59:02.769 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=6,cv=109344 0
+2020-08-04T17:59:02.770 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=6,cv=109344,time=0 0
+2020-08-04T17:59:02.770 [ProcId=11368] c:Start clear sc KOD/KOV. rt=0,pid=6,cv=91 0
+2020-08-04T17:59:02.770 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=6,cv=91,time=0 0
+2020-08-04T17:59:02.775 [ProcId=11368] c:End clear sc KOD/KOV. rt=0,pid=6,time=16 0
+2020-08-04T17:59:02.776 [ProcId=11368] nbase	~pidnum= 6
+2020-08-04T17:59:03.255 [ProcId=11368] nbase	start EndDBman 0
+2020-08-04T17:59:03.255 [ProcId=11368] nbase	end EndDBman 0
