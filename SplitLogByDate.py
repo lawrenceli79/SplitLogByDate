@@ -13,6 +13,19 @@ if (len(sys.argv)<=1):
 
 strInFile = sys.argv[1]
 
+def OutputStatus(dtStart:datetime, i:int, bFinish:bool):
+    dtNow = datetime.datetime.now()
+    time_delta = (dtNow - dtStart)
+    total_seconds = time_delta.total_seconds()
+    # minutes = total_seconds/60
+    # str = "Line=%d, Elapse(sec)=%s, Speed(lines/s)=%d" % (i, "{:.2f}".format(minutes), i/total_seconds)
+    str = "Line=%d, Elapse(sec)=%d, Speed(lines/s)=%d" % (i, total_seconds, i/total_seconds)
+    if(bFinish):
+        print(str)
+        print("End=" + dtNow.strftime("%Y-%m-%d %H:%M:%S"))
+    else:
+        print(str, end="\r")
+
 with open(strInFile, errors='ignore') as fIn:
     dtBegin = datetime.datetime.now()
     print("Start=" + dtBegin.strftime("%Y-%m-%d %H:%M:%S"))
@@ -35,14 +48,8 @@ with open(strInFile, errors='ignore') as fIn:
                 dtLast = dt
 
         if(i%1000==0):
-            print("Processing Line " + str(i), end="\r")
+            OutputStatus(dtBegin, i, False)
         fOut.write(line)
 
     fOut.close()
-    print("Finished Line " + str(i))
-    dtEnd = datetime.datetime.now()
-    time_delta = (dtEnd - dtBegin)
-    total_seconds = time_delta.total_seconds()
-    minutes = total_seconds/60
-    str = "End=%s, Elapse(min)=%s, Speed(lines/s)=%d" % (dtEnd.strftime("%Y-%m-%d %H:%M:%S"), "{:.2f}".format(minutes), i/total_seconds)
-    print(str)
+    OutputStatus(dtBegin, i, True)
