@@ -1,5 +1,6 @@
 # This script split <LogFile> to many <LogFile>_<yyyymmdd>_<n>
 # This file assume each line in <LogFile> begin with yyyy-mm-ddTHH:mm:ss
+# This script was successfully tested on Python 3.7
 
 import sys
 import os
@@ -8,7 +9,7 @@ import time
 import datetime
 
 if (len(sys.argv)<=1):
-    str = ("Split large log file by beginning date of each line.\n"
+    str = ("Split large log file(e.g. dbg.txt) by beginning datetime of each line.\n"
             "Usage:\n"
             "   py {} <LogFile> <Options>\n"
             "Options:\n"
