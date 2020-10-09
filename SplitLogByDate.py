@@ -8,7 +8,7 @@ import time
 import datetime
 
 if (len(sys.argv)<=1):
-    str = ("Split large log file by date of each line.\n"
+    str = ("Split large log file by beginning date of each line.\n"
             "Usage:\n"
             "   py {} <LogFile> <Options>\n"
             "Options:\n"
