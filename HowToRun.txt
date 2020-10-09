@@ -2,5 +2,5 @@ Split large log file(e.g. dbg.txt) by beginning datetime of each line.
 Usage:
    py SplitLogByDate.py <LogFile> <Options>
 Options:
-   /ds=<val>    Number of splits whithin a day (Default is 1)
+   /ds=<val>    Number of splits within a day (Default is 1)
 Python version tested: 3.7 (maybe can also run on other python version)
