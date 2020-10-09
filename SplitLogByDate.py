@@ -15,10 +15,6 @@ if (len(sys.argv)<=1):
             "   /ds=<val>    Number of splits whithin a day (Default is 1)\n"
             .format(os.path.basename(__file__))
     )
-    # print ("Split log by date. Assume")
-    # print ("<LogFile> <options>")
-    # print ("options:")
-    # print ("    /ds=<val>    Split")
     print(str)
     sys.exit()
 
