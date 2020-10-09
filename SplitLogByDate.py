@@ -13,7 +13,7 @@ if (len(sys.argv)<=1):
             "Usage:\n"
             "   py {} <LogFile> <Options>\n"
             "Options:\n"
-            "   /ds=<val>    Number of splits whithin a day (Default is 1)\n"
+            "   /ds=<val>    Number of splits within a day (Default is 1)\n"
             .format(os.path.basename(__file__))
     )
     print(str)
