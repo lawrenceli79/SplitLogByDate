@@ -3,4 +3,7 @@ Usage:
    py SplitLogByDate.py <LogFile> <Options>
 Options:
    /ds=<val>    Number of splits within a day (Default is 1)
+Output files:
+   <LogFile>_0.txt
+   <LogFile>_<date>*.txt
 Python version tested: 3.7 (maybe can also run on other python version)
